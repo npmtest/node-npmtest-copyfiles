@@ -1,6 +1,6 @@
 # npmtest-copyfiles
 
-#### test coverage for  [copyfiles (v1.2.0)](https://github.com/calvinmetcalf/copyfiles#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-copyfiles.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-copyfiles) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-copyfiles.svg)](https://travis-ci.org/npmtest/node-npmtest-copyfiles)
+#### basic test coverage for  [copyfiles (v1.2.0)](https://github.com/calvinmetcalf/copyfiles#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-copyfiles.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-copyfiles) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-copyfiles.svg)](https://travis-ci.org/npmtest/node-npmtest-copyfiles)
 
 #### copy some files
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-copyfiles/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-copyfiles/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-copyfiles/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-copyfiles/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-copyfiles/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-copyfiles/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-copyfiles/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-copyfiles/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-copyfiles/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-copyfiles/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-copyfiles/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-copyfiles/build/coverage.html/index.html)
 
